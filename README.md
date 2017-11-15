@@ -11,7 +11,7 @@ D) Help options:
 python get_nDSM.py -h
 
 Varibale decription
- img_resolution is the resolution in meters. For SRTM it should be 90. Regarding other optional arguments:
+ img_resolution is the resolution in meters. e.g. SRTM it should be 90. Regarding other optional arguments:
   -
   --inputDSMpath INPUTDSMPATH
                         full path to DSM file which needs to be converted.
