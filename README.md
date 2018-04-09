@@ -9,33 +9,47 @@ C) To run, type in terminal:
 python get_nDSM.py  --inputDSMpath 'path/for_trial.tif'  --outputnDSMpath 'outfilesample.tif'  --img_resolution 30  --neighborhood_kernel 300  --height_threshold 3  --slope_threshold 60
 
 D) Help options:
+
 python get_nDSM.py -h
 
 E) Varibale decription
+
  img_resolution is the resolution in meters. e.g. SRTM it should be 90. Regarding other optional arguments:
+ 
   1)
+  
   --inputDSMpath INPUTDSMPATH
                         full path to DSM file which needs to be converted.
                         e.g. \home\AW3D.tif
-  2)                      
+                        
+  2)               
+  
   --outputnDSMpath OUTPUTNDSMPATH
                         full path to output nDSM file after converted e.g.
                         \home\AW3Dout.tif
-  3)                      
+  3)      
+  
   --img_resolution IMG_RESOLUTION
                         image resolution in meter
-   4)                     
+                        
+   4)           
+   
   --neighborhood_kernel NEIGHBORHOOD_KERNEL
                         how far (in meter) should the kernel size be considered.
                         Recommended - Lower distance for higher resolution.
+                        
    5)                     
+   
   --height_threshold HEIGHT_THRESHOLD
                         minimum height difference (in meter) between ground
                         and building. Generally height of 1 storey building.
+                        
    6)                     
+   
   --slope_threshold SLOPE_THRESHOLD
                         minimum slope between a building and ground pixel (in
                         degrees)
+                        
                         
 
 F) Please also ensure that following modules are present:
