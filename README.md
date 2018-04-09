@@ -1,8 +1,13 @@
 # DSM2DTM
+
+Notes: 
+
+
 A) This is a Python based implementation of "ADVANCED DTM GENERATION FROM VERY HIGH RESOLUTION SATELLITE STEREO IMAGES" by Perko et al (2015).
 https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/II-3-W4/165/2015/isprsannals-II-3-W4-165-2015.pdf
+This code is a modification of Perko et al (2015) to suit coarse resolution DSM e.g. ASTER, AW3D30.
 
-B)This runs on Python 2.7
+B) This runs on Python 2.7
 
 C) To run, type in terminal:
 
