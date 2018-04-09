@@ -7,7 +7,7 @@ A) This is a Python based implementation of "ADVANCED DTM GENERATION FROM VERY H
 https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/II-3-W4/165/2015/isprsannals-II-3-W4-165-2015.pdf
 This code is a modification of Perko et al (2015) to suit coarse resolution DSM e.g. ASTER, AW3D30.
 
-B) This runs on Python 2.7
+B) This runs on Python 2.7. Also download get_DSM.py and classDSM.py in the same folder. Make that folder as the active folder.
 
 C) To run, type in terminal:
 
@@ -65,3 +65,8 @@ Scipy
 Numpy
 Math
 Matplotlib
+
+## --------      Request for feedback     -----------------------------
+
+
+I shall be grateful if you intend to use this code in a project. Kindly let me know your intended applications with this code. I will be happy to assist with problems/issues and feedback.
