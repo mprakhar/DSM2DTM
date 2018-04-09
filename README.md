@@ -27,6 +27,7 @@ E) Varibale decription
   --outputnDSMpath OUTPUTNDSMPATH
                         full path to output nDSM file after converted e.g.
                         \home\AW3Dout.tif
+                        
   3)      
   
   --img_resolution IMG_RESOLUTION
