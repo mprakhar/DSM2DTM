@@ -4,7 +4,8 @@ https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/II-3-W4/165/201
 
 B)This runs on Python 2.7
 
-C) To run:
+C) To run, type in terminal:
+
 python get_nDSM.py  --inputDSMpath 'path/for_trial.tif'  --outputnDSMpath 'outfilesample.tif'  --img_resolution 30  --neighborhood_kernel 300  --height_threshold 3  --slope_threshold 60
 
 D) Help options:
