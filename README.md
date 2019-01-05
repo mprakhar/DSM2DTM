@@ -1,3 +1,7 @@
+
+Code for the paper - Comparison of Digital Building Height Models Extracted from AW3D, TanDEM-X, ASTER, and SRTM Digital Surface Models over Yangon City. If you find this useful, please cite as -  Misra, P.; Avtar, R.; Takeuchi, W. Comparison of Digital Building Height Models Extracted from AW3D, TanDEM-X, ASTER, and SRTM Digital Surface Models over Yangon City. Remote Sens. 2018, 10, 2008.
+
+
 # DSM2DTM
 
 Notes: 
