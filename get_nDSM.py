@@ -17,8 +17,8 @@ import argparse
 import datetime
 
 #improt the classDSM
-#import classDSM as genDSM
-import classDSM_v2_20180705 as genDSM
+import classDSM as genDSM
+
 # ===============++++++++++   ------- to RUN THE CODE type -----   +++++===========
  
 def param_init(inputDSMpath, img_resolution, neighborhood_kernel, height_threshold, slope_thresold, outputnDSMpath  ):
